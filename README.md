@@ -1,4 +1,13 @@
-<h1 align="left">Hi 👋! My name is Rajat and I'm a full stack developer.</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rajat Rawal
+===================================================================================================================================
+
+Full Stack Developer
+--------------------
+
+* 🌍  I'm based in Kolhapur, India
+* ✉️  You can contact me at [rwlrajat@gmail.com](mailto:rwlrajat@gmail.com)
+* 🧠  I'm learning React
+* 🤝  I'm open to collaborating on Django Projects
 
 ###
 
@@ -13,6 +22,7 @@
 <h2 align="left">My Techs</h2>
 
 ###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
