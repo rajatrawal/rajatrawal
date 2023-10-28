@@ -54,9 +54,6 @@ Full Stack Developer
 
 ###
 
-<img align="left" height="200" src="https://res.cloudinary.com/teepublic/image/private/s--sB7hOAZz--/t_Preview/b_rgb:ffffff,c_limit,f_jpg,h_630,q_90,w_630/v1491873788/production/designs/1421035_1.jpg"  />
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/rajatrawal/" target="_blank">
@@ -77,7 +74,7 @@ Full Stack Developer
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/rajatrawal/rajatrawal/snake.yml" alt="Snake animation" />
+
 
 ###
 
